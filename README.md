@@ -1,7 +1,5 @@
 # Adidas-Sales-Dashboard
 
-## Adidas Sales Performance Dashboard
-
 This Tableau dashboard provides an interactive visualization of Adidas sales performance across regions, products, and time periods. It highlights key business metrics such as total revenue, profit margin, and sales trends, allowing users to quickly identify high-performing categories and areas for improvement.
 
 ---
