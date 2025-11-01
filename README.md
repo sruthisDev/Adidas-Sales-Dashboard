@@ -21,6 +21,12 @@ This Tableau dashboard provides an interactive visualization of Adidas sales per
 
 ---
 
+### Preview
+<img width="1012" height="631" alt="Screenshot 2025-10-31 163221" src="https://github.com/user-attachments/assets/e191c0ca-5ab0-4f93-a64d-acf0da6602db" />
+
+
+---
+
 ### How to Use
 1. Download or clone this repository.  
 2. Open the file `adidas_dashboard.twbx` in **Tableau Desktop** or **Tableau Public**.  
